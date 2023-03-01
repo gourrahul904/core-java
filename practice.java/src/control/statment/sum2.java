@@ -1,0 +1,16 @@
+package control.statment;
+
+public class sum2 {
+public static void main(String[]args) {
+	int i;
+ int sum=0;
+ for(i=1;i<=10;i++) {
+	 System.out.print(i+"\t");
+	 
+	 System.out.println(sum=sum+i);	 
+ }
+ 
+} 
+
+ 
+}
