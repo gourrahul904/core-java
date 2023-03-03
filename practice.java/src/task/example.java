@@ -8,10 +8,14 @@ public class example {
 	  d.FundTransfer();
       d.deposited(100);
 	   d.byaj(100, 10); 
-    // corebank.max(30, 20);
+     d.max(3, 7);
+	   d.add(10, 2);
+	   
+	   
 	   
 		
 	}
+	
 
 }
 

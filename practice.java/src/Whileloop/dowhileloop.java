@@ -9,4 +9,4 @@ public class dowhileloop {
 		}while(a<=10);
 	}
 
-}
+} 

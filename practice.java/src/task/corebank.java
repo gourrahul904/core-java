@@ -4,7 +4,7 @@ public class corebank {
 	public void FundTransfer() {
 		System.out.println("sucessfull");
 		
-		
+		 
 	}
 	public void deposited(int amount) {
 		System.out.println(" deposited  "+amount);
@@ -22,6 +22,14 @@ public class corebank {
 		
 			
 		}
+					
+			
+		}
+	    public int  add(int a,int b){
+		int c=a+b;
+		return c;
+	
+
 		
 			
 	}

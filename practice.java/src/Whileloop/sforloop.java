@@ -1,6 +1,6 @@
 package Whileloop;
 
-public class sforloop {
+public class {
 	public static void main(String[]args) {
 		int[] a= {3,4,6,3,6};
 	//	for(int i=0;i<a.length; i++) {
