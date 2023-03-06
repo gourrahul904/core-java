@@ -5,7 +5,7 @@ public class fourth {
  public static void main(String[] args) {
 	int a;
 	int sum=1;
-	for(a=1; a<=4; a++) {
+	for(a=1; a<=5; a++) {
 		System.out.println(a);
 		sum=sum*a;
 		

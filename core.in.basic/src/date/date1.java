@@ -8,7 +8,7 @@ public class date1 {
 		Date ab=new Date();
 		System.out.println(ab);
 	   SimpleDateFormat sdf= new SimpleDateFormat("dd/MM/yyyy");
-	   String s=sdf.format(ab)
+	   String s=sdf.format(ab);
 	   System.out.println(s);
 	   
 	  

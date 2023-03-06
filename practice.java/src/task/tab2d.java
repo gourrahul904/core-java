@@ -8,7 +8,7 @@ public class tab2d {
 			for(b=11; b<=14; b++) {
 				table[a][b]=a*b;
 				System.out.print(table[a][b]+"\t");
-		
+				
 			}	
 			
 			System.out.println();

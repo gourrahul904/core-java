@@ -11,11 +11,17 @@ public static void main(String[] args) {
 	
 	Calendar cal= Calendar.getInstance();
 	cal.add(Calendar.DATE, 5);
+     
+	
 	Date d= cal.getTime();
+	
+	System.out.println(cal.getTime());  
 	System.out.println(d);
 	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+	
+	
 	String df=sdf.format(d);
-	System.out.println(df);
+	 System.out.println(df);
 	
 }
 }
